@@ -3,7 +3,7 @@
 *
 * Advanced BBCode Box 3.1 [Dutch]
 *
-* @copyright (c) 2013 Matt Friedman
+* @copyright (c) 2013 Matt Friedman, Dutch Translation
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
@@ -45,16 +45,16 @@ $lang = array_merge($lang, array(
 	'ABBC3_BBVIDEO_HELPLINE'	=> 'Video website link insluiten: [BBvideo=breedte,hoogte]http://video_url[/BBvideo]',
 	'ABBC3_BLUR_HELPLINE'		=> 'Wazige tekst: [blur=color]tekst[/blur]',
 	'ABBC3_DIR_HELPLINE'		=> 'Tekst volgorde (draait tekst om rechts naar links): [dir=ltr|rtl]tekst[/dir]',
-	'ABBC3_DROPSHADOW_HELPLINE'	=> 'Drop shadow text: [dropshadow=color]text[/dropshadow]',
+	'ABBC3_DROPSHADOW_HELPLINE'	=> 'Drop shadow tekst: [dropshadow=color]text[/dropshadow]',
 	'ABBC3_FADE_HELPLINE'		=> 'Vervagende tekst: [fade]tekst[/fade]',
 	'ABBC3_FLOAT_HELPLINE'		=> 'Tekst uitlijnen: [float=left|right]tekst[/float]',
 	'ABBC3_FONT_HELPLINE'		=> 'Lettertype: [font=Comic Sans MS]tekst[/font]',
-	'ABBC3_GLOW_HELPLINE'		=> 'Gloeiende text: [glow=color]tekst[/glow]',
+	'ABBC3_GLOW_HELPLINE'		=> 'Gloeiende tekst: [glow=color]tekst[/glow]',
 	'ABBC3_HIDDEN_HELPLINE'		=> 'Verberg voor gasten: [hidden]tekst[/hidden]',
 	'ABBC3_HIGHLIGHT_HELPLINE'	=> 'Markeer tekst: [highlight=yellow]tekst[/highlight]  Tip: Je kan ook een kleur code gebruiken bijv: #FF0000',
 	'ABBC3_MARQUEE_HELPLINE'	=> 'Marquee tekst: [marq=up|down|left|right]tekst[/marq]',
-	'ABBC3_MOD_HELPLINE'		=> 'Waarschuwings bericht: [mod=username]tekst[/mod]',
-	'ABBC3_NFO_HELPLINE'		=> 'NFO ascii art text: [nfo]tekst[/nfo]',
+	'ABBC3_MOD_HELPLINE'		=> 'Waarschuwingsbericht: [mod=username]tekst[/mod]',
+	'ABBC3_NFO_HELPLINE'		=> 'NFO ascii art tekst: [nfo]tekst[/nfo]',
 	'ABBC3_OFFTOPIC_HELPLINE'	=> 'Off Topic bericht: [offtopic]tekst[/offtopic]',
 	'ABBC3_PREFORMAT_HELPLINE'	=> 'Vooraf opgemaakte tekst: [pre]tekst[/pre]',
 	'ABBC3_SHADOW_HELPLINE'		=> 'Schaduw tekst: [shadow=color]tekst[/shadow]',
@@ -69,7 +69,7 @@ $lang = array_merge($lang, array(
 	'ABBC3_COPY_BBCODE'			=> 'Kopieer geselecteerde tekst',
 	'ABBC3_PASTE_BBCODE'		=> 'Plak geselecteerde tekst',
 	'ABBC3_PASTE_ERROR'			=> 'Je moet eerst een tekst selecteren, voordat je het kan plakken',
-	'ABBC3_PLAIN_BBCODE'		=> 'Verwijder alle BBcode tags van de geselecteerde tekst',
+	'ABBC3_PLAIN_BBCODE'		=> 'Verwijder alle BBcode-tags van de geselecteerde tekst',
 	'ABBC3_NOSELECT_ERROR'		=> 'Er is geen tekst geselecteerd.',
 
 	// BBCode Wizards
@@ -77,7 +77,7 @@ $lang = array_merge($lang, array(
 	'ABBC3_BBCODE_WIZ_EXAMPLE'	=> 'Voorbeeld',
 
 	// BBvideo Wizard
-	'ABBC3_BBVIDEO_SITES'		=> 'Toegestande BBvideo websites',
+	'ABBC3_BBVIDEO_SITES'		=> 'Toegestane BBvideo websites',
 	'ABBC3_BBVIDEO_LINK'		=> 'Video LINK',
 	'ABBC3_BBVIDEO_SIZE'		=> 'Video Breedte x Hoogte',
 	'ABBC3_BBVIDEO_WIDTH'		=> '560',
@@ -91,5 +91,5 @@ $lang = array_merge($lang, array(
 	// ACP
 	'ABBC3_BBCODE_ORDERED'		=> 'De volgorde van de BBcodes is bijgewerkt.',
 	'ABBC3_BBCODE_GROUP'		=> 'Beheer groepen die deze BBcode kunnen gebruiken',
-	'ABBC3_BBCODE_GROUP_INFO'	=> 'Als je geen groep geselecteerd hebt, kunnen alle groepen deze BBcode gebruiken. Gebruik CTRL+KLIK (of CMD+KLIK bij Mac) om meer dan één groep te selecteren/deselecteren.',
+	'ABBC3_BBCODE_GROUP_INFO'	=> 'Als je geen groep hebt geselecteerd, kunnen alle groepen deze BBcode gebruiken. Gebruik CTRL+KLIK (of CMD+KLIK bij Mac) om meer dan één groep te selecteren/deselecteren.',
 ));
