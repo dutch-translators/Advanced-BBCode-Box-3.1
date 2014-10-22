@@ -80,13 +80,7 @@ $lang = array_merge($lang, array(
 	'ABBC3_BBVIDEO_SITES'		=> 'Toegestane BBvideo websites',
 	'ABBC3_BBVIDEO_LINK'		=> 'Video LINK',
 	'ABBC3_BBVIDEO_SIZE'		=> 'Video Breedte x Hoogte',
-	'ABBC3_BBVIDEO_WIDTH'		=> '560',
-	'ABBC3_BBVIDEO_HEIGHT'		=> '315',
 	'ABBC3_BBVIDEO_PRESETS'		=> 'Afmetingen vooraf instellen',
-	'ABBC3_BBVIDEO_PRESETS_SM'	=> '560 x 315',
-	'ABBC3_BBVIDEO_PRESETS_MD'	=> '640 x 360',
-	'ABBC3_BBVIDEO_PRESETS_LG'	=> '853 x 480',
-	'ABBC3_BBVIDEO_PRESETS_XL'	=> '1280 x 720',
 
 	// ACP
 	'ABBC3_BBCODE_ORDERED'		=> 'De volgorde van de BBcodes is bijgewerkt.',
